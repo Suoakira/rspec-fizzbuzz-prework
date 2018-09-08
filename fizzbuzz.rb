@@ -1,2 +1,2 @@
-def fizzbuzz.rb 
+def fizzbuzz
 end
